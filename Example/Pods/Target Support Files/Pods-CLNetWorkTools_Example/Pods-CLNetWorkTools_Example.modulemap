@@ -1,0 +1,6 @@
+framework module Pods_CLNetWorkTools_Example {
+  umbrella header "Pods-CLNetWorkTools_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

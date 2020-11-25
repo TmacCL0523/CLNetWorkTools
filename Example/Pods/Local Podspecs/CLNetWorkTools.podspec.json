@@ -1,0 +1,22 @@
+{
+  "name": "CLNetWorkTools",
+  "version": "0.1.0",
+  "summary": "A short description of CLNetWorkTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongcl8114@hotmail.com/CLNetWorkTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hongcl8114@hotmail.com": "hongcl8114@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hongcl8114@hotmail.com/CLNetWorkTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLNetWorkTools/Classes/**/*"
+}
